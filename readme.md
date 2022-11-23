@@ -1,4 +1,4 @@
-# Learning Basic React
+# Learning Basic React CRUD with typescript
 
 ## Requirement
 
